@@ -1,0 +1,6 @@
+fecha,nombre,tipo_evaluacion,valor1,valor2,resultado,clasificacion
+2026-02-17 10:23:15,Juan Pérez,IMC,70.0,1.75,22.9,Normal
+2026-02-17 10:25:30,María García,Presión Arterial,115,75,115/75,Normal
+2026-02-17 10:28:45,Carlos López,Frecuencia Cardíaca,25,0,195,Zonas calculadas
+2026-02-17 10:32:10,Ana Martínez,Hidratación,65,moderado,2600,10.4 vasos
+2026-02-17 10:35:20,Pedro Sánchez,IMC,85.0,1.70,29.4,Sobrepeso
